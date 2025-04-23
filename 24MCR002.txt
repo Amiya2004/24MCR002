@@ -2,4 +2,4 @@ Name         : Amiyadevi S
 Reg.No       : 24MCR002
 Dept         : MCA
 Fav. Topic   : Web Technology 
-Moblie Model : Oppo A3 pro
+Mobile Model : Oppo A3 pro
